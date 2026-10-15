@@ -35,3 +35,9 @@
 ## 𝔖𝔲𝔪𝔪𝔬𝔫 𝔐𝔢 (𝔖𝔬𝔠𝔦𝔞𝔩𝔰)
 
 * 📨 **Telegram:** [@M_4_R_G_I_N_A_L](https://t.me)
+---
+
+<!-- Стабильный инфо-виджет в самом низу профиля -->
+<p align="center">
+  <img src="https://vercel.app" alt="M4RGINAL1981 Stats" />
+</p>
