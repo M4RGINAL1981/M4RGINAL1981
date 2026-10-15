@@ -1,15 +1,22 @@
 <div align="center">
 
-<!-- Готический мрачный оверлей / Логотип (Кастомный или стилизованный под олдскул) -->
+<!-- Готический мрачный оверлей / Логотип -->
 <img src="https://vercel.app" width="100%"/>
 
 # 𝔐𝔞𝔠𝔥𝔦𝔫𝔢 𝔏𝔢𝔞𝔯𝔫𝔦𝔫𝔤 𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯
 
-*«𝔖𝔠𝔦𝔢𝔫𝔱𝔦𝔞%20𝔢𝔰𝔱%20𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞%20𝔢𝔱%20𝔲𝔫𝔟𝔯𝔞»*
+*«𝔖𝔠𝔦𝔢𝔫𝔱𝔦𝔞 𝔢𝔰𝔱%20𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞%20𝔢𝔱%20𝔲𝔫𝔟𝔯𝔞»*
 
 ---
 
-<!-- Интерактивная динамическая статистика профиля (Кастомная готическая/темная тема) -->
+<!-- Главная гравюра: Альбрехт Дюрер — Рыцарь, смерть и дьявол -->
+<p align="center">
+  <img src="https://wikimedia.org" alt="Albrecht Dürer - Knight, Death and the Devil" width="55%" style="border-radius: 4px; filter: grayscale(100%) contrast(110%);" />
+</p>
+
+---
+
+<!-- Интерактивная динамическая статистика профиля -->
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
@@ -34,7 +41,7 @@
 <code><img src="https://shields.io" alt="Python"/></code>
 <code><img src="https://shields.io" alt="SQL"/></code>
 
-### 𝔄𝔯𝔱𝔦𝔣𝔦𝔠𝔦𝔞𝔫%20ℑ𝔫𝔱𝔢𝔩𝔩𝔦𝔤𝔢𝔫𝔠𝔢
+### 𝔄𝔯𝔱𝔦𝔣𝔦𝔠𝔦𝔞𝔫%20ℑ𝔫𝔱𝔢𝔩𝔩𝔦𝔤𝔢𝔫%20ℑ𝔫𝔱𝔢𝔩𝔩𝔦𝔤𝔢𝔫𝔢
 <code><img src="https://shields.io" alt="Ollama"/></code>
 <code><img src="https://shields.io" alt="Agents"/></code>
 
@@ -53,7 +60,7 @@
 ## 𝔖𝔲𝔪𝔪𝔬𝔫%20𝔐𝔢%20(%𝔖𝔬𝔠𝔦𝔞𝔩𝔰)
 
 <p align="left">
-  <a href="https://t.me/M_4_R_G_I_N_A_L" target="_blank">
+  <a href="https://t.me" target="_blank">
     <img src="https://shields.io" alt="Telegram" />
   </a>
 </p>
@@ -63,4 +70,3 @@
 <p align="center">
   <img src="https://vercel.app" width="100%" alt="Activity Graph" />
 </p>
-
