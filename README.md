@@ -11,8 +11,9 @@
 
 <!-- Главная гравюра: Альбрехт Дюрер — Рыцарь, смерть и дьявол -->
 <p align="center">
-  <img src="https://wikimedia.org" alt="Albrecht Dürer - Knight, Death and the Devil" width="55%" />
+  <img src="main-image.jpg" alt="Albrecht Dürer - Knight, Death and the Devil" width="55%" />
 </p>
+
 
 ---
 
