@@ -5,13 +5,13 @@
 
 # 𝔐𝔞𝔠𝔥𝔦𝔫𝔢 𝔏𝔢𝔞𝔯𝔫𝔦𝔫𝔤 𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯
 
-*«𝔖𝔠𝔦𝔢𝔫𝔱𝔦𝔞 𝔢𝔰𝔱%20𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞%20𝔢𝔱%20𝔲𝔫𝔟𝔯𝔞»*
+*«𝔖𝔠𝔦𝔢𝔫𝔱𝔦𝔞 𝔢𝔰𝔱 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞 𝔢𝔱 𝔲𝔫𝔟𝔯𝔞»*
 
 ---
 
-<!-- Главная гравюра: Альбрехт Дюрер — Рыцарь, смерть и дьявол -->
+<!-- Главная гравюра: Локальная ссылка, которая точно сработает -->
 <p align="center">
-  <img src="https://wikimedia.org" alt="Albrecht Dürer - Knight, Death and the Devil" width="55%" style="border-radius: 4px; filter: grayscale(100%) contrast(110%);" />
+  <img src="durer.jpg" alt="Albrecht Dürer - Knight, Death and the Devil" width="55%" style="border-radius: 4px;" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 </div>
 
-## 𝔒𝔲𝔱%20𝔬𝔣%20𝔱𝔥𝔢%20𝔖𝔥𝔞𝔡𝔬𝔴𝔰%20(%𝔖𝔲𝔪𝔪𝔞𝔯𝔶)
+## 𝔒𝔲𝔱 𝔬𝔣 𝔱𝔥𝔢 𝔖𝔥𝔞𝔡𝔬𝔴𝔰 (𝔖𝔲𝔪𝔪𝔞𝔯𝔶)
 
 * 🌌 **Фокус:** Создание автономных интеллектуальных агентов и локальных систем на базе **LLM**.
 * ⚙️ **В разработке:** [SwarmIDE](https://github.com) — высокопроизводительный, нативный С++ аналог n8n для оркестрации и автоматизации рабочих процессов ИИ.
@@ -32,7 +32,7 @@
 
 ---
 
-## 𝔗𝔥𝔢%20𝔄𝔯𝔰%20𝔊𝔬𝔢𝔱𝔦𝔞%20𝔬𝔣%20𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶%20(%𝔖𝔱𝔞𝔠𝔨)
+## 𝔗𝔥𝔢 𝔄𝔯𝔰 𝔊𝔬𝔢𝔱𝔦𝔞 𝔬𝔣 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶 (𝔖𝔱𝔞 Travis)
 
 ### 𝔏𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰
 <code><img src="https://shields.io" alt="C++"/></code>
@@ -41,23 +41,23 @@
 <code><img src="https://shields.io" alt="Python"/></code>
 <code><img src="https://shields.io" alt="SQL"/></code>
 
-### 𝔄𝔯𝔱𝔦𝔣𝔦𝔠𝔦𝔞𝔫%20ℑ𝔫𝔱𝔢𝔩𝔩𝔦𝔤𝔢𝔫%20ℑ𝔫𝔱𝔢𝔩𝔩𝔦𝔤𝔢𝔫𝔢
+### 𝔄𝔯𝔱𝔦𝔣𝔦𝔠𝔦𝔞𝔫 ℑ𝔫𝔱𝔢𝔩𝔩𝔦𝔤𝔢𝔫𝔢
 <code><img src="https://shields.io" alt="Ollama"/></code>
 <code><img src="https://shields.io" alt="Agents"/></code>
 
-### 𝔅𝔞𝔠𝔨𝔢𝔫𝔡%20%26%20𝔊𝔯𝔞𝔭𝔥𝔦𝔫𝔤
+### 𝔅𝔞𝔠𝔨𝔢𝔫𝔡 %26 𝔊𝔯𝔞𝔭𝔥𝔦𝔫𝔤
 <code><img src="https://shields.io" alt="FastAPI"/></code>
 <code><img src="https://shields.io" alt="PostgreSQL"/></code>
 <code><img src="https://shields.io" alt="Docker"/></code>
 <code><img src="https://shields.io" alt="OpenGL"/></code>
 
-### 𝔗𝔬𝔬𝔩𝔰
+### 𝔗𝔬...𝔬𝔩𝔰
 <code><img src="https://shields.io" alt="VSCode"/></code>
 <code><img src="https://shields.io" alt="Git"/></code>
 
 ---
 
-## 𝔖𝔲𝔪𝔪𝔬𝔫%20𝔐𝔢%20(%𝔖𝔬𝔠𝔦𝔞𝔩𝔰)
+## 𝔖𝔲𝔪𝔪𝔬𝔫 𝔐𝔢 (𝔖𝔬c𝔦𝔞𝔩𝔰)
 
 <p align="left">
   <a href="https://t.me" target="_blank">
