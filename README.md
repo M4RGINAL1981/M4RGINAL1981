@@ -1,27 +1,17 @@
 <div align="center">
 
-<!-- Готический мрачный оверлей / Логотип -->
-<img src="https://vercel.app" width="100%"/>
-
 # 𝔐𝔞𝔠𝔥𝔦𝔫𝔢 𝔏𝔢𝔞𝔯𝔫𝔦𝔫𝔤 𝔈𝔫𝔤𝔦𝔫𝔢𝔢𝔯
 
 *«𝔖𝔠𝔦𝔢𝔫𝔱𝔦𝔞 𝔢𝔰𝔱 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞 𝔢𝔱 𝔲𝔫𝔟𝔯𝔞»*
 
 ---
 
-<!-- Главная гравюра: Альбрехт Дюрер — Рыцарь, смерть и дьявол -->
+<!-- Гравюра Дюрера -->
 <p align="center">
-  <img src="main-image.jpg" alt="Albrecht Dürer - Knight, Death and the Devil" width="55%" />
+  <img src="main-image.jpg" alt="Albrecht Dürer" width="55%" />
 </p>
-
 
 ---
-
-<!-- Интерактивная динамическая статистика профиля -->
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
 
 </div>
 
@@ -35,39 +25,13 @@
 
 ## 𝔗𝔥𝔢 𝔄𝔯𝔰 𝔊𝔬𝔢𝔱𝔦𝔞 𝔬𝔣 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶 (𝔖𝔱𝔞𝔠𝔨)
 
-### Languages
-<code><img src="https://shields.io" alt="C++"/></code>
-<code><img src="https://shields.io" alt="C"/></code>
-<code><img src="https://shields.io" alt="C#"/></code>
-<code><img src="https://shields.io" alt="Python"/></code>
-<code><img src="https://shields.io" alt="SQL"/></code>
-
-### Artificial Intelligence
-<code><img src="https://shields.io" alt="Ollama"/></code>
-<code><img src="https://shields.io" alt="Agents"/></code>
-
-### Backend & Graphing
-<code><img src="https://shields.io" alt="FastAPI"/></code>
-<code><img src="https://shields.io" alt="PostgreSQL"/></code>
-<code><img src="https://shields.io" alt="Docker"/></code>
-<code><img src="https://shields.io" alt="OpenGL"/></code>
-
-### Tools
-<code><img src="https://shields.io" alt="VSCode"/></code>
-<code><img src="https://shields.io" alt="Git"/></code>
+* ⚔️ **Languages:** `C++` | `C` | `C#` | `Python` | `SQL`
+* 🕸️ **Backend & Graphics:** `Docker` | `PostgreSQL` | `FastAPI` | `GLFW` | `GLM` | `OpenGL`
+* 🧠 **Artificial Intelligence:** `Ollama` (LLM Agents)
+* 𝔗 **Tools:** `VS Code` | `Git`
 
 ---
 
-## 𝔖𝔲𝔪𝔪𝔬𝔫 𝔐𝔢 (𝔖𝔬𝔉𝔦𝔞𝔫𝔰)
+## 𝔖𝔲𝔪𝔪𝔬𝔫 𝔐𝔢 (𝔖𝔬𝔠𝔦𝔞𝔩𝔰)
 
-<p align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
-  </a>
-</p>
-
-<!-- График контрибьютов -->
-<br/>
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
-</p>
+* 📨 **Telegram:** [@M_4_R_G_I_N_A_L](https://t.me)
